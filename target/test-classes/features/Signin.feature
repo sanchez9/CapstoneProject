@@ -14,7 +14,7 @@ Feature: Retail SignIn feature
 
   @tc001
   Scenario Outline: Verify user can sign in into Retail Application
-    And User enter email '<email>' and passwork '<password>'
+    And User enter email '<email>' and password '<password>'
     And User clicks on login button
     Then User should be logged in into Account
 
@@ -25,7 +25,7 @@ Feature: Retail SignIn feature
   Scenario: Verify user can create an account into Retail Website
     And User click on Create New Account button
     And User fill the singUp information with below data
-      | name      | email               | password     | confirmPassword |
-      | Stephanie | testest02@gmail.com | Testtest@123 | Testtest@123    |
+      | name | email | password | confirmPassword |
+      | name | email | Tek@1234 | Tek@1234        |
     And User click on signUp button
     Then User should be logged into account page

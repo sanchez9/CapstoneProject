@@ -10,6 +10,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
+import tek.sdet.framework.utilities.DataGenerator;
 
 public class SignInSteps extends CommonUtility {
 	
@@ -24,8 +25,8 @@ public class SignInSteps extends CommonUtility {
 	
 	@And ("User enter email {string} and password {string}")
 	public void userEnterEmailAndPassword(String emailValue, String passValue) {
-		sendText(factory.signInPage().emailField, emailValue);
-		sendText(factory.signInPage().passwordField, passValue);
+		sendText(factory.signInPage().emailField,emailValue);
+		sendText(factory.signInPage().passwordField,passValue);
 		logger.info("user entered email and password");
 		
 }
@@ -59,8 +60,8 @@ public class SignInSteps extends CommonUtility {
 	@When("User fill the singUp information with below data")
 	public void userFillTheSingUpInformationWithBelowData(io.cucumber.datatable.DataTable dataTable) {
 	List<Map<String, String>> data = dataTable.asMaps(String.class,String.class);
-	sendText(factory.signInPage().createNewAccountNameField,data.get(0).get("name"));
-	sendText(factory.signInPage().createNewAccountEmailField,data.get(0).get("email"));
+	sendText(factory.signInPage().createNewAccountNameField,DataGenerator.getData(data.get(0).get("name")));
+	sendText(factory.signInPage().createNewAccountEmailField,DataGenerator.getData(data.get(0).get("email")));
 	sendText(factory.signInPage().createNewAccountPasswordField,data.get(0).get("password"));
 	sendText(factory.signInPage().createNewAccountConfPassField,data.get(0).get("confirmPassword"));
 	logger.info("user filled the signUp information form");
@@ -74,6 +75,7 @@ public class SignInSteps extends CommonUtility {
 	}
 	@Then("User should be logged into account page")
 	public void userShouldBeLoggedIntoAccountPage() {
+		waitTillPresence(factory.accountPage().accountprofilePicture);
 	    Assert.assertTrue(isElementDisplayed(factory.accountPage().accountprofilePicture));
 	    logger.info("user is logged into account page");
 	   

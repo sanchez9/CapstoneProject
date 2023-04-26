@@ -190,3 +190,72 @@
 2023-04-25 04:45:23,230 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
 2023-04-25 04:50:08,222 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
 2023-04-25 04:50:08,249 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 12:43:06,682 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 12:43:06,710 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 12:44:42,062 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 12:44:42,093 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 12:44:45,995 - logger_File -INFO - user is on retail website
+2023-04-26 12:44:46,267 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 12:44:46,372 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 12:44:47,307 - logger_File -INFO - user filled the signUp information form
+2023-04-26 12:44:47,391 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 12:45:54,414 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 12:45:54,444 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 12:45:57,946 - logger_File -INFO - user is on retail website
+2023-04-26 12:45:58,262 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 12:45:58,380 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 12:45:59,183 - logger_File -INFO - user filled the signUp information form
+2023-04-26 12:45:59,261 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 12:53:44,490 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 12:53:44,519 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 12:53:48,893 - logger_File -INFO - user is on retail website
+2023-04-26 12:53:49,021 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 12:53:49,132 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 12:53:49,929 - logger_File -INFO - user filled the signUp information form
+2023-04-26 12:53:50,006 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 13:15:45,278 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 13:15:45,306 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 13:15:49,424 - logger_File -INFO - user is on retail website
+2023-04-26 13:15:49,673 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 13:15:49,766 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 13:15:50,517 - logger_File -INFO - user filled the signUp information form
+2023-04-26 13:15:50,589 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 13:18:31,056 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 13:18:31,087 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 13:18:34,953 - logger_File -INFO - user is on retail website
+2023-04-26 13:18:35,076 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 13:18:35,177 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 13:18:35,927 - logger_File -INFO - user filled the signUp information form
+2023-04-26 13:18:36,028 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 13:19:37,912 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 13:19:37,957 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 13:19:41,086 - logger_File -INFO - user is on retail website
+2023-04-26 13:19:41,336 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 13:19:41,435 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 13:19:42,048 - logger_File -INFO - user filled the signUp information form
+2023-04-26 13:19:42,137 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 13:19:42,422 - logger_File -INFO - user is logged into account page
+2023-04-26 13:20:23,213 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 13:20:23,240 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 13:20:27,183 - logger_File -INFO - user is on retail website
+2023-04-26 13:20:27,350 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 13:20:27,446 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 13:20:28,100 - logger_File -INFO - user filled the signUp information form
+2023-04-26 13:20:28,189 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 13:20:28,543 - logger_File -INFO - user is logged into account page
+2023-04-26 13:23:22,473 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 13:23:22,501 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 13:23:26,132 - logger_File -INFO - user is on retail website
+2023-04-26 13:23:26,500 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 13:23:26,598 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 13:23:27,350 - logger_File -INFO - user filled the signUp information form
+2023-04-26 13:23:27,435 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 13:23:28,254 - logger_File -INFO - user is logged into account page
+2023-04-26 13:24:34,289 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 13:24:34,317 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/stephaniesanchez/.cache/selenium/chromedriver/mac64/112.0.5615.49/chromedriver
+2023-04-26 13:24:38,201 - logger_File -INFO - user is on retail website
+2023-04-26 13:24:38,494 - logger_File -INFO - user clicked on sign in Option
+2023-04-26 13:24:38,597 - logger_File -INFO - user clicked on Create New Account Button
+2023-04-26 13:24:39,282 - logger_File -INFO - user filled the signUp information form
+2023-04-26 13:24:39,383 - logger_File -INFO - user clicked on SignUp Button
+2023-04-26 13:24:39,751 - logger_File -INFO - user is logged into account page
